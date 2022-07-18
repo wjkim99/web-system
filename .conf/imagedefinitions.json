@@ -1,0 +1,6 @@
+[
+  {
+    "name": "admin-system",
+    "imageUri": "444773787018.dkr.ecr.ap-northeast-2.amazonaws.com/ecr-admin-system:latest"
+  }
+]
